@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a UIUC Ph.D. student, working mainly in Graph Mining, and diffusion models.
+- 😄 I’m also interested in music and I even have a degree obtained.
+
+<a href="https://github.com/hrukalive">
+  <img align="center" src="https://github-readme-stats-lilac-beta-54.vercel.app/api?username=hrukalive&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="My Github Stats"/>
+</a>
+<a href="https://github.com/hrukalive">
+  <img align="center" src="https://github-readme-stats-lilac-beta-54.vercel.app/api/top-langs/?username=hrukalive&layout=compact&langs_count=8&card_width=320&hide=tex,php,supercollider" alt="Top Lang"/>
+</a>
+
 <!--
 **hrukalive/hrukalive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
